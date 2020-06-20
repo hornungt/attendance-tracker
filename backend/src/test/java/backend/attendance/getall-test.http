@@ -1,0 +1,4 @@
+GET http://localhost:8080/attendance
+Accept: application/json
+
+###
