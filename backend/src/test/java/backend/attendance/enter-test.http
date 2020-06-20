@@ -2,7 +2,7 @@ POST http://localhost:8080/attendance
 Content-Type: application/json
 
 {
-  "entrance": "entrance2"
+  "entrance": "entrance3"
 }
 
 ###
