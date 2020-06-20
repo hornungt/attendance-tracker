@@ -2,19 +2,19 @@ package backend.model;
 
 import java.time.LocalDateTime;
 
-public class EntryEvent {
-    private String entrance;
+public class DoorwayEvent {
+    private String doorway;
     private LocalDateTime time;
 
-    public EntryEvent() {
+    public DoorwayEvent() {
     }
 
-    public String getEntrance() {
-        return entrance;
+    public String getDoorway() {
+        return doorway;
     }
 
-    public void setEntrance(String entrance) {
-        this.entrance = entrance;
+    public void setDoorway(String doorway) {
+        this.doorway = doorway;
     }
 
     public LocalDateTime getTime() {

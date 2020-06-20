@@ -1,0 +1,8 @@
+POST http://localhost:8080/exit
+Content-Type: application/json
+
+{
+  "doorway": "entrance3"
+}
+
+###
