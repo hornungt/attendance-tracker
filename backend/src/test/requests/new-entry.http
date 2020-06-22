@@ -1,0 +1,5 @@
+POST http://localhost:8080/occupancy/events/entry/TEST
+Content-Type: application/json
+
+
+###

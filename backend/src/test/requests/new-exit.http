@@ -1,4 +1,4 @@
-POST http://localhost:8080/entry
+POST http://localhost:8080/occupancy/events/exit/TEST
 Content-Type: application/json
 
 {
